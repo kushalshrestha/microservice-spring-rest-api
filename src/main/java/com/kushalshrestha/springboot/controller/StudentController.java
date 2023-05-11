@@ -1,6 +1,6 @@
 package com.kushalshrestha.springboot.controller;
 
-import com.kushalshrestha.springboot.bean.Student;
+import com.kushalshrestha.springboot.entity.Student;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

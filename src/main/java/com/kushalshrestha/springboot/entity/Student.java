@@ -1,4 +1,4 @@
-package com.kushalshrestha.springboot.bean;
+package com.kushalshrestha.springboot.entity;
 
 public class Student {
     private int id;
